@@ -1,0 +1,31 @@
+name: 
+  zhk: capital park 1
+  flat: 172
+class: business
+rooms:
+  global:
+    - contactor: 13
+  living_room:
+    - light: 1
+    - light_2: 0
+  kitchen:
+    - light: 2
+    - light_2: 1
+    - smoke: 13
+    - smoke_2: 13
+    - leak: 14
+  hallway:
+    - light: 3
+    - pir: 11
+    - reed: 12
+  bathroom:
+    - light: 4
+    - vent: 5
+    - leak: 15
+  'гардероб':
+    - light: 4
+    - vent: 5
+    - leak: 15
+
+secrets:
+  home_alarm_code: 123

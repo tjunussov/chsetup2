@@ -1,2 +1,6 @@
-# chsetup2
-Created with CodeSandbox
+#CHSetup Configurator
+Author: Abzal Aiten , Tim TJey Jun
+
+h4 TODO
+
+-
